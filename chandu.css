@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
